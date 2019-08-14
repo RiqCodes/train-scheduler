@@ -5,7 +5,7 @@ panel{
 .jumbotron{
 	background-color: lightcoral;
 	/* Find light color of success panel */
-	color:brown;
+	color:darkred;
 	padding-top: 1%;
 	padding-bottom: 2%;
 }
@@ -14,9 +14,13 @@ panel{
 	padding-top: 0.25%;
 }
 h3{
-    color:brown;
+    color:darkred;
 }
 
 .panel-success>.panel-heading{
     background-color: lightcoral;
+}
+#add-train{
+    color: darkred;
+    
 }
